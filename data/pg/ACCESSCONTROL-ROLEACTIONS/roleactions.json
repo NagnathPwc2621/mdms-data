@@ -26259,6 +26259,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 2104,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "NDA_SYSTEM",
       "actionid": 2488,
       "actioncode": "",
