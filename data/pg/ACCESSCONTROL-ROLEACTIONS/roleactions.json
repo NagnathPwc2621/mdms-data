@@ -19161,6 +19161,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 954,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "UC_EMP",
       "actionid": 1834,
       "actioncode": "",
